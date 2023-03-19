@@ -7,7 +7,7 @@
 # reGrammarly
 > ReGrammarly API interface.
 
-[![CI](https://github.com/emacs-ReGrammarly/ReGrammarly/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-ReGrammarly/ReGrammarly/actions/workflows/test.yml)
+[![CI](https://github.com/emacs-ReGrammarly/Grammarly/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-Grammarly/Grammarly/actions/workflows/test.yml)
 
 ## 🔨 Examples
 
